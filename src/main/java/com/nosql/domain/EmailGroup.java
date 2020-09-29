@@ -13,10 +13,6 @@ public class EmailGroup extends BaseEntity{
     private String emailPassword;
     private boolean status;
 
-    public EmailGroup(){
-
-    }
-
     public String getId() {
         return id;
     }
